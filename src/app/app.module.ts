@@ -7,7 +7,7 @@ import { HangmanDisplayComponent } from './components/hangman-display/hangman-di
 import { HangmanKeyboardComponent } from './components/hangman-keyboard/hangman-keyboard.component';
 import { HangmanQuestionComponent } from './components/hangman-question/hangman-question.component';
 import { BrowserAnimationsModule } from '@angular/platform-browser/animations';
-import {MatGridListModule} from '@angular/material/grid-list';
+import { MatGridListModule } from '@angular/material/grid-list';
 
 
 
